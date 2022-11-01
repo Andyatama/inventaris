@@ -1,7 +1,7 @@
 <div class="main-sidebar sidebar-style-2">
     <aside id="sidebar-wrapper">
       <div class="sidebar-brand">
-        <a href="{{route('dashboard')}}">INVENTARIS</a>
+        <a href="{{route('dashboard')}}"><i class="fas fa-truck-loading"></i> INVENTARIS <i class="fas fa-box"></i></a>
       </div>
       <div class="sidebar-brand sidebar-brand-sm">
         <a href="{{route('dashboard')}}">INV</a>
